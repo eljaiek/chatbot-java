@@ -2,13 +2,15 @@
 
 Web chatbot concept proof implemented with Java Stack
 
-[See](https://dzone.com/articles/implementing-a-web-chat-with-ai-in-java)
-
 The project is a standard Maven project, so you can import it to your IDE of choice. 
 You'll need to have Java 11+ and Node.js 10+ installed.
 
 To run from the command line, use `./mvnw spring-boot:run` and 
 open [http://localhost:8080](http://localhost:8080) in your browser.
+
+## References
+
+- [Implementing a web chat with ai in java](https://dzone.com/articles/implementing-a-web-chat-with-ai-in-java)
 
 ## Which technologies are being used ?
 
