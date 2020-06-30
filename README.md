@@ -1,10 +1,21 @@
-# Web Chat With AI in Java
+# Chatbot playground in Java
+
+Web chatbot concept proof implemented with Java Stack
 
 [See](https://dzone.com/articles/implementing-a-web-chat-with-ai-in-java)
 
-The project is a standard Maven project, so you can import it to your IDE of choice. You'll need to have Java 11+ and Node.js 10+ installed.
+The project is a standard Maven project, so you can import it to your IDE of choice. 
+You'll need to have Java 11+ and Node.js 10+ installed.
 
-To run from the command line, use `mvn` and open [http://localhost:8080](http://localhost:8080) in your browser.
+To run from the command line, use `./mvnw spring-boot:run` and 
+open [http://localhost:8080](http://localhost:8080) in your browser.
+
+## Which technologies are being used ?
+
+- Vaddin v14.2.1
+- SpringBoot v2.2.0.RELEASE
+- JDK 11
+- Docker
 
 ## Project structure
 
@@ -13,6 +24,9 @@ To run from the command line, use `mvn` and open [http://localhost:8080](http://
 - `views` folder in `frontend/src/` contains the client-side JavaScript views of your application.
 
 ## What next?
+
+- Fix Chatbot answers delay
+- Add WebSocket chatroom](https://dzone.com/articles/a-microservice-websocket-chat)
 
 [vaadin.com](https://vaadin.com) has lots of material to help you get you started:
 
