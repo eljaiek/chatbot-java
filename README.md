@@ -10,7 +10,7 @@ open [http://localhost:8080](http://localhost:8080) in your browser.
 
 ## References
 
-- [Implementing a web chat with ai in java](https://dzone.com/articles/implementing-a-web-chat-with-ai-in-java)
+- [Implementing a web chat with AI in java](https://dzone.com/articles/implementing-a-web-chat-with-ai-in-java)
 
 ## Which technologies are being used ?
 
