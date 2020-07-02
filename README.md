@@ -28,7 +28,7 @@ open [http://localhost:8080](http://localhost:8080) in your browser.
 ## What next?
 
 - Fix Chatbot answers delay
-- Add WebSocket chatroom](https://dzone.com/articles/a-microservice-websocket-chat)
+- [Add WebSocket chatroom](https://dzone.com/articles/a-microservice-websocket-chat)
 
 [vaadin.com](https://vaadin.com) has lots of material to help you get you started:
 
